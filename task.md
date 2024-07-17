@@ -12,11 +12,11 @@ To create a shell script that categorizes the time of day based on user input (i
 
 3) **Categorize the time:** Use conditional statements to determine the time of day based on the hour entered.
 
-| Start time | End time | Message |
-| :---:   | :---: | :---: |
-| 00:01  | 06:00 | Early Morning |
-| 06:01 | 12:00 |  Morning |
-| 13:01 | 18:00 | afternoon |
-| 18:01 | 23:59 |  late night |
+| Start time | End time | Message        |
+| :--------: | :------: | :------------- |
+| 00:00      | 06:00    | Early Morning  |
+| 06:01      | 12:00    | Morning        |
+| 12:01      | 18:00    | Afternoon      |
+| 18:01      | 23:59    | Late Night     |
 
 4) **Display the result:** Output the corresponding message from given table in step no. 3
